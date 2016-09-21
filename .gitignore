@@ -1,0 +1,11 @@
+.idea
+*.iml
+.project
+.coverage
+.pydevproject
+.settings
+*.pyc
+/static/
+**/migrations/**
+!**/migrations/__init__.py
+settings_local.py
